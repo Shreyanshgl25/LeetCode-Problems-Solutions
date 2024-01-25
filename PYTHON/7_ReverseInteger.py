@@ -1,4 +1,4 @@
-# Name: Soniya Parate
+# Name:Shreyansh Goyal
 # Date: 21/10/22
 
 number = int(input("Enter the integer number: "))  
